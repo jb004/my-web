@@ -2246,15 +2246,15 @@ input, select, textarea {
 		}
 
 	body.homepage #header {
-		height: 10vh; 
+		height: 100vh; 
 		/* height: 100vh;  */
 		/* min-height: 10em; */
-		min-height: 1em;
+		min-height: 10em;
 	}  
 
 		body.homepage #header h1 {
 			/* font-size: 4em; */
-			font-size: 1em;
+			font-size: 5em;
 		}
 
 		body.homepage #header:after {
